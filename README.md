@@ -16,6 +16,6 @@ not using IE? your good to go.<br>
 
 installing
 ----------
-pull the brach to your local dir and your good to go.<br>
+pull the branch to your local dir and your good to go.<br>
 for server installation, same thing. copy the files you just pulled from your local dir and place them to your webserver directory.
 
