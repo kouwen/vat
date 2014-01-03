@@ -5,6 +5,6 @@ includes vat and extract the vat amount to give you an amount without vat and th
 
 What does it do?
 ----------------
-Returns an amount with vat included
-Returns an amount without vat included
-Adjust vat rate
+Returns an amount with vat included <br>
+Returns an amount without vat included<br>
+Adjust vat rate, current range (0-52)% <br>
